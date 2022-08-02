@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Nextlander"
-description:	       "Creating a media empire to span the cosmos."
+description:	       "Creating a media empire to span the cosmos"
 author:              "Vinny Caravella, Brad Shoemaker, Alex Navarro"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
