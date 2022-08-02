@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
 - {name: 'Videos', url: 'facts'}
@@ -15,11 +15,13 @@ menu:
 - {name: 'About', url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
+# more here: https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
 social:
-- {icon: 'twitter', link: 'https://twitter.com/nextlander', alt: ''}
-- {icon: 'youtube', link: 'https://youtube.com/channel/UCO0gHyqLNeIrCAjwlO2BmiA', alt: '-brand'}
-- {icon: 'twitch', link: 'https://twitch.tv/nextlander', alt: ''}
-- {icon: 'podcast', link: 'https://podcasts.apple.com/us/podcast/the-nextlander-podcast/id1570737028', alt: '-solid'}
+- {icon: 'twitter', link: 'https://twitter.com/nextlander'}
+- {icon: 'youtube-play', link: 'https://youtube.com/channel/UCO0gHyqLNeIrCAjwlO2BmiA'}
+- {icon: 'twitch', link: 'https://twitch.tv/nextlander'}
+- {icon: 'podcast', link: 'https://podcasts.apple.com/us/podcast/the-nextlander-podcast/id1570737028'}
+- {icon: 'usd', link: 'https://www.patreon.com/nextlander'}
 #- {icon: 'envelope', link: 'podcast@nextlander.com'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
