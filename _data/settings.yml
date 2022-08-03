@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Games', url: 'contact'}
+- {name: 'Games', url: 'games'}
 - {name: 'Shows', url: 'resources'}
 - {name: 'Watchcast', url: 'documentation'}
 - {name: 'Highlights', url: 'facts'}
